@@ -1,0 +1,14 @@
+nav a{
+    text-decoration: none;
+    margin: 10px;
+    font-size: 18px;
+    text-align: end;
+}
+.navbar{
+    display: flex;
+    justify-content: end;
+    margin: 20px;
+}
+/* h2{
+    text-align: start;
+} */
