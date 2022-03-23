@@ -15,7 +15,7 @@ const Countries = () => {
 
     return (
         <div >
-            <h2>Hello Hi</h2>
+            <h2 className='text-primary'>Hello Hi</h2>
            
             {/* {
                   countries.map(country => console.log(country))

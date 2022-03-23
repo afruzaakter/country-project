@@ -4,6 +4,7 @@ import Header from './components/Header/Header';
 import Countries from './components/Countries/Countries';
 import Person from './components/Country/Country';
 import Footer from './components/Footer/Footer';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 
 
